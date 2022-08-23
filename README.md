@@ -1,1 +1,2 @@
-my first read me file
+I created this Read me.
+I was told to update this on Github.
